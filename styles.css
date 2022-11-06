@@ -8,6 +8,7 @@ body {
 
 .container {
     display: flex;
+    flex-direction: column;
     width: 100%;
     max-width: 360px;
     margin: 20px auto;
